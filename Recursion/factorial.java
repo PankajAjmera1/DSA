@@ -18,3 +18,5 @@ public class factorial {
 
     }
 }
+//time -> O(n)
+//space -> O(n)

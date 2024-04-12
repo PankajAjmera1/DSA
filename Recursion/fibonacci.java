@@ -12,3 +12,7 @@ public class fibonacci {
         System.out.println(ans);
     }
 }
+
+//time -> O(2^n)
+//space -> O(n)
+
